@@ -1,2 +1,2 @@
 # cursocalcular
-asp.net netframework 4.8
+asp.net C# netframework 4.8
